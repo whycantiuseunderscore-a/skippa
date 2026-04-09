@@ -1,3 +1,9 @@
+/*
+WHAT???? YOU CLOSED IT???????????
+THAT'S IT.
+I'M SUBMITTING ANOTHER PULL REQUEST!!!!!!!!!!!!!!!!!!!!!!
+DON'T CLOSE IT!!!!!!!!!!!!!!!!!!
+*/
 "use strict";
 
 require('dotenv').config();
@@ -990,10 +996,10 @@ app.get("/dashboard", requireAuth, asyncHandler(async (req, res) => {
     const unlocked = user.longestStreak >= b.days;
     return `
       <div class="badge-row ${unlocked ? "unlocked" : ""}">
-        <img class="badge-icon" src="${(b.id != '[REDACTED]' && b.id != '[REDACTED]' && b.id != '[REDACTED]' && b.id != '[REDACTED]') ? esc(b.img) : (unlocked ? esc(b.img) : 'badges/unknown.png')}" alt="${(b.id != '[REDACTED]' && b.id != '[REDACTED]' && b.id != '[REDACTED]' && b.id != '[REDACTED]') ? esc(b.name) : (unlocked ? esc(b.name) : '???')}" width="52" height="52" />
+        <img class="badge-icon" src="${(b.id != '[REDACTED]' && b.id != '[REDACTED]' && b.id != 'Zepto' && b.id != 'Milli') ? esc(b.img) : (unlocked ? esc(b.img) : 'badges/unknown.png')}" alt="${(b.id != '[REDACTED]' && b.id != '[REDACTED]' && b.id != '[REDACTED]' && b.id != '[REDACTED]') ? esc(b.name) : (unlocked ? esc(b.name) : '???')}" width="52" height="52" />
         <div class="badge-info">
           <div class="badge-name">
-            ${(b.id != '[REDACTED]' && b.id != '[REDACTED]' && b.id != '[REDACTED]' && b.id != '[REDACTED]') ? esc(b.name) : (unlocked ? esc(b.name) : '???')}
+            ${(b.id != '[REDACTED]' && b.id != '[REDACTED]' && b.id != 'Zepto' && b.id != 'Milli') ? esc(b.name) : (unlocked ? esc(b.name) : '???')}
             <span class="badge-day-tag">Day ${esc(String(b.days))}</span>
           </div>
           <div class="badge-desc">${unlocked ? esc(b.desc) : "???"}</div>
