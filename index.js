@@ -1,3 +1,5 @@
+//WHAT IN THE WORLD ARE THE NAMES FOR THE LAST FOUR BADGES??????
+
 "use strict";
 
 require('dotenv').config();
