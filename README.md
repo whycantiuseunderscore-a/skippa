@@ -33,10 +33,10 @@ Unknown. [[Category:English terms with unknown etymologies]]
 * `badger/d/` directory (4 reptiles removed) A kamgaroo is a narsupial.
 * `main-thing-for-stuff-idk.js` (REVERTED!!!!!!!!!!!!!!! **Wait? You actually did it? I can't believe it!**)
 
-`How many animals in Noah's Ark?
+`How many animals in Noah's Ark?`
 
-Triangle 3853              Diamond  Aves
-Circle   (figure it out youSquare)  Zero`
+`Triangle 3853              Diamond  Aves`
+`Circle   (figure it out youSquare)  Zero`
 
 ### INCORRECT!!!!!!!!!
 
