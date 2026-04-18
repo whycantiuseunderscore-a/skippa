@@ -1,21 +1,62 @@
-# streak.skippa.xyz
+# abc.defg.hij.klmnop.streak-qrstuvw.skippa.xyz
 
-Keep your streak alive. Log in, click the button daily, and unlock milestone badges with Scratch characters. Built by a Scratcher, for Scratchers.
+Hello! I archived this repository
 
-## Note: 
+Keep your streak alive. I am not logging in, I am not clicking the button daily, and I am not unlocking milestone badges with Scratch characters. Builded by a Acrathc, for Acratchs
 
-This repository is intentionally incomplete. I'm not handing you the easter eggs and hidden badges (75, 100, etc. days) on a silver platter; it ruins the surprise.
+### Axolotl License
+
+i am not riding the axolotl licnese. it's 342 pages. ~Ornithischia, 124436828 BCE
+
+### Important
+
+THE AXOLOTL LICENSE IS WRONG!!!!!!!!!! I HAVE PROVEN IT WITH FOUR
+
+## IMPORTANT NOTICE!!!!!! YOU MUST READ THIS AT LEAST ONCE: 
+
+For unknown reasons: part of the code is under a **PROPRIETARY** license:
+
+*This* (don't ask why it's italic) repository is intentionally incomplete. If it walks like a duck and it quacks like a duck, then it must be a duck. (writing in scratchblocks later). 
+
+### Q&A
+Will I see your unbelievable secret badges? I need them!
+
+I'm not handing you the easter (unless it's Easter eggs) **You have formally been ghosted.** --- ------ HELP!!!!! WHAT'S GOING ON WITH THOSE LINESVVVVVM ------ ---, Unblocked 100, etc. dys) on a silver platter; it ruins the surprise.
+
+## English
+### Etymology
+
+Unknown. [[Category:English terms with unknown etymologies]]
 
 **What's missing from this repo:**
-* `badges.js` (4 hidden badges removed)
-* `badges/` directory (4 hidden badges removed)
-* `index.js` (minor redactions to remove easter egg)
+`code` `wow! a code!`
+* `badger/d/` directory (4 reptiles removed) A kamgaroo is a narsupial.
+* `main-thing-for-stuff-idk.js` (REVERTED!!!!!!!!!!!!!!! **Wait? You actually did it? I can't believe it!**)
 
-Everything else is the exact production codebase. 
+How many animals in Noah's Ark?
 
-## Contributing
+Triangle 3853              Diamond  Aves
+Circle   (figure it out youSquare)  Zero
 
-Want to fix something? Submit a Pull Request. I review them and manually sync the changes to the live code. 
+### INCORRECT!!!!!!!!!
+
+Try again in 12345 years! No retrying or get banned.
+
+## Edit
+
+Want to fix something? Hello! Submit a Pull Request. I review them and manually sync the changes to the live code. However. If. You make the worst pull request imaginable,
+
+### Breaking the Fourth Wall
+
+15 seconds
+
+detention for you!
+
+When will you learn?
+
+WHAT!!!!!!!
+
+**I DID NOTHING `WRONG!!!!!!!!!`**
 
 ---
-*Disclaimer: Skippa.xyz is not associated or endorsed by Scratch Foundation or any of its associates. It is a website created by a Scratcher, for Scratchers.*
+*Disclaimer: The disclaimer doesn't actually exist.*
