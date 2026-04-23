@@ -100,8 +100,8 @@ function asyncHandler(fn) {
 
 // Generate a random 6-digit code in SKIPPA-XXXXXX format
 function generateVerifyCode() {
-  const digits = crypto.randomInt(0, 1_000_000).toString().padStart(6, "0");
-  return `SKIPPA-${digits}`;
+  const digits = crypto.randomInt(0, 36**6).toString(36).padStart(6, "0");
+  return `A-${digits}`;
 }
 
 // Fetch the Scratch comments page and return the most recent top-level comment
@@ -738,7 +738,7 @@ function layout(title, body, { username = null, csrf = "", pfp = null } = {}) {
 <body>
   <nav>
     <a class="nav-logo" href="/">
-      <span class="nav-logo-text">streak.<span style="color: #f7a028;">skippa.xyz</span></span>
+      <span class="nav-logo-text">whycantiuseunderscore-a.github.io/<span style="color: #f7a028;">skippa</span></span>
     </a>
     <div class="nav-links">
       ${username
@@ -990,7 +990,7 @@ app.get("/dashboard", requireAuth, asyncHandler(async (req, res) => {
     const unlocked = user.longestStreak >= b.days;
     return `
       <div class="badge-row ${unlocked ? "unlocked" : ""}">
-        <img class="badge-icon" src="${(b.id != '[REDACTED]' && b.id != '[REDACTED]' && b.id != '[REDACTED]' && b.id != '[REDACTED]') ? esc(b.img) : (unlocked ? esc(b.img) : 'badges/unknown.png')}" alt="${(b.id != '[REDACTED]' && b.id != '[REDACTED]' && b.id != '[REDACTED]' && b.id != '[REDACTED]') ? esc(b.name) : (unlocked ? esc(b.name) : '???')}" width="52" height="52" />
+        <img class="badge-icon" src="${(b.id != '[REDACTED]' && b.id != '[REDACTED]' && b.id != '[REDACTED]' && b.id != '[REDACTED]') ? esc(b.img) : (unlocked ? esc(b.img) : 'badges/IMG_0036.jpeg')}" alt="${(b.id != '[REDACTED]' && b.id != '[REDACTED]' && b.id != '[REDACTED]' && b.id != '[REDACTED]') ? esc(b.name) : (unlocked ? esc(b.name) : '???')}" width="52" height="52" />
         <div class="badge-info">
           <div class="badge-name">
             ${(b.id != '[REDACTED]' && b.id != '[REDACTED]' && b.id != '[REDACTED]' && b.id != '[REDACTED]') ? esc(b.name) : (unlocked ? esc(b.name) : '???')}
